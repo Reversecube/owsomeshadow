@@ -11,7 +11,7 @@ import {owsomeshadow} from 'owsomeshadow';
 
 owsomeshadow({
     shadow_type : 'soft',
-    padding : fasle
+    padding : false
 });
 ```
 
